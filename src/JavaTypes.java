@@ -1,7 +1,7 @@
 
 
 public class JavaTypes {
-	public static void main(String[] args) {
+	public static void luckyNumbers(String[] args) {
 	int myNum = 5;
 	System.out.println(myNum);
 	
